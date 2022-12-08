@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samuelfox1/google-calendar-api.git"
+    "url": "git+https://github.com/sjfcodes/google-calendar-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/samuelfox1/google-calendar-api/issues"
+    "url": "https://github.com/sjfcodes/google-calendar-api/issues"
   },
-  "homepage": "https://github.com/samuelfox1/google-calendar-api#readme",
+  "homepage": "https://github.com/sjfcodes/google-calendar-api#readme",
   "devDependencies": {
     "dotenv": "^16.0.0"
   },
