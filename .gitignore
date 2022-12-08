@@ -105,3 +105,4 @@ dist
 
 token.json
 credentials.json
+.DS_Store
